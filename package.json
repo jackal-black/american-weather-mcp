@@ -1,10 +1,11 @@
 {
    "type": "module",
   "bin": {
-    "weather": "./build/index.js"
+    "enhanced-weather-mcp": "./build/index.js"
   },
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "start": "node build/index.js"
   },
   "files": [
     "build"
