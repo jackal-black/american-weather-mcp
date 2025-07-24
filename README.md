@@ -143,6 +143,6 @@
 
 ---
 
-**开发者**: Enhanced Weather MCP Server Team  
+**开发者**: American Weather MCP Server Team  
 **版本**: 2.0.0  
 **最后更新**: 2025年7月
