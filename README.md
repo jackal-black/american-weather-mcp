@@ -1,4 +1,4 @@
-# Enhanced Weather MCP Server v2.0
+# American Weather MCP Server v2.0
 
 一个功能强大的天气 MCP (Model Context Protocol) 服务器，提供美国地区的实时天气数据、警报信息和预报服务。
 
