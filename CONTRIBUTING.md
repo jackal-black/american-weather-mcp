@@ -13,8 +13,8 @@ Thank you for your interest in contributing to the Weather Report VS Code extens
 
 1. Fork and clone the repository:
 ```bash
-git clone https://github.com/your-username/weather-report.git
-cd weather-report
+git clone https://github.com/jackal-black/american-weather-report.git
+cd american-weather-report
 ```
 
 2. Install dependencies:
